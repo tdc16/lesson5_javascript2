@@ -13,7 +13,7 @@ Thomas Cascio
 I created a tax calculator that calculates your tax refund and tax rate based off your relationship status. 
 
 ### View Project:
-https://tdc16.github.io/lesson5_javascript2/
+https://github.com/tdc16/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
 1. This lesson explained Markdown and how to apply different styling of writing on the GitHub platform. Markdown is the style of the text on the webpage, where the user can control the display of text. For example, they can make words bold or italic, or attach specific characters to a link. 
